@@ -273,7 +273,7 @@ table h2 {
 .contact-dados {
   width: 100%;
   height: auto;
-  flex: 50%;
+  flex: 25%;
   text-align: center;
   padding: 30px;
 }
@@ -367,4 +367,5 @@ table h2 {
   .contact-dados{
     font-size: 20px;
   }
+}
 }
